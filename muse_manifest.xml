@@ -1,0 +1,162 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gkjbandkarel.github.io" resolutions="1x" timestamp="1523113555004">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="hati-natal.css" crc="287018962" ref="hati-natal"/>
+    <file name="kabar-baik-kelahiran-kristus.css" crc="3960546887" ref="kabar-baik-kelahiran-kristus"/>
+    <file name="media.css" crc="328763161" ref="media"/>
+    <file name="renungan.css" crc="3920411720" ref="renungan"/>
+    <file name="di-bawah-salibnya-kutertunduk.css" crc="4266852935" ref="di-bawah-salibnya-kutertunduk"/>
+    <file name="audio.css" crc="4045619355" ref="audio"/>
+    <file name="ya-bersyukur.css" crc="3799223154" ref="ya-bersyukur"/>
+    <file name="jalan-sertamu.css" crc="52411528" ref="jalan-sertamu"/>
+    <file name="info.css" crc="4188913870" ref="info"/>
+    <file name="index.css" crc="4228499328" ref="index"/>
+    <file name="matahari-di-atas-awan.css" crc="68366665" ref="matahari-di-atas-awan"/>
+    <file name="video.css" crc="417796750" ref="video"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio"/>
+    <file name="museutils.js" crc="340535759" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio"/>
+    <file name="museconfig.js" crc="310584261" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio"/>
+    <file name="webpro.js" crc="4059564322" ref="index:media:renungan"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:media:renungan"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:media:renungan"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:media:renungan"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u2153.php" crc="3762210813" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio"/>
+    <file name="require.js" crc="7928878" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="renungan"/>
+  </folder>
+  <folder name="images">
+    <file name="logo bandengan.png" crc="3766342223" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio">
+      <caption webpage="video" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="matahari-di-atas-awan" alt=""/>
+      <caption webpage="renungan" alt=""/>
+      <caption webpage="kabar-baik-kelahiran-kristus" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="di-bawah-salibnya-kutertunduk" alt=""/>
+      <caption webpage="hati-natal" alt=""/>
+      <caption webpage="jalan-sertamu" alt=""/>
+      <caption webpage="ya-bersyukur" alt=""/>
+      <caption webpage="audio" alt=""/>
+    </file>
+    <file name="u769-4.png" crc="210724037" ref="index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio">
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="matahari-di-atas-awan" alt=""/>
+      <caption webpage="matahari-di-atas-awan" alt=""/>
+      <caption webpage="renungan" alt=""/>
+      <caption webpage="renungan" alt=""/>
+      <caption webpage="kabar-baik-kelahiran-kristus" alt=""/>
+      <caption webpage="kabar-baik-kelahiran-kristus" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="di-bawah-salibnya-kutertunduk" alt=""/>
+      <caption webpage="di-bawah-salibnya-kutertunduk" alt=""/>
+      <caption webpage="hati-natal" alt=""/>
+      <caption webpage="hati-natal" alt=""/>
+      <caption webpage="jalan-sertamu" alt=""/>
+      <caption webpage="jalan-sertamu" alt=""/>
+      <caption webpage="ya-bersyukur" alt=""/>
+      <caption webpage="ya-bersyukur" alt=""/>
+      <caption webpage="audio" alt=""/>
+      <caption webpage="audio" alt=""/>
+    </file>
+    <file name="arrowmenuright.png" crc="41086373" ref="index:media:info:video:renungan:kabar-baik-kelahiran-kristus:hati-natal:ya-bersyukur:matahari-di-atas-awan:di-bawah-salibnya-kutertunduk:jalan-sertamu:audio">
+      <caption webpage="video" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="matahari-di-atas-awan" alt=""/>
+      <caption webpage="renungan" alt=""/>
+      <caption webpage="kabar-baik-kelahiran-kristus" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="di-bawah-salibnya-kutertunduk" alt=""/>
+      <caption webpage="hati-natal" alt=""/>
+      <caption webpage="jalan-sertamu" alt=""/>
+      <caption webpage="ya-bersyukur" alt=""/>
+      <caption webpage="audio" alt=""/>
+    </file>
+    <file name="img-20180101-wa0020-crop-u1177.jpg" crc="65306682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:media:renungan"/>
+    <file name="img-20171120-wa0011-crop-u1228.jpg" crc="40970594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20180101-wa0022-crop-u9531.jpg" crc="4262001965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20171120-wa0011-crop-u9551.jpg" crc="27236081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20180330-wa0016-crop-u9571.jpg" crc="262737778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20180401-wa0004-crop-u9591.jpg" crc="404162982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20180101-wa0021-crop-u9611.jpg" crc="58943711" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20171221-wa0010-crop-u9631.jpg" crc="124525934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:media:renungan"/>
+    <file name="youtube_logo.png" crc="514214683" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comwhatsapp.png" crc="3853582261" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9705-4.png" crc="210724037" ref="media"/>
+    <file name="img-20180101-wa0020-crop-u1285.jpg" crc="344424267" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="img-20171120-wa0011-crop-u1287.jpg" crc="27236081" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="u9732-4.png" crc="210724037" ref="info"/>
+    <file name="img-20180101-wa0022.jpg" crc="3904534852" ref="info">
+      <caption webpage="info" alt=""/>
+    </file>
+    <file name="u9708-4.png" crc="210724037" ref="video"/>
+    <file name="u9711-4.png" crc="210724037" ref="renungan"/>
+    <file name="img-20180101-wa0020-crop-u3577.jpg" crc="344424267" seo="true" ref="renungan">
+      <caption webpage="renungan" alt=""/>
+    </file>
+    <file name="img-20171120-wa0011-crop-u3575.jpg" crc="27236081" seo="true" ref="renungan">
+      <caption webpage="renungan" alt=""/>
+    </file>
+    <file name="u9714-4.png" crc="210724037" ref="kabar-baik-kelahiran-kristus"/>
+    <file name="u9717-4.png" crc="210724037" ref="hati-natal"/>
+    <file name="u9720-4.png" crc="210724037" ref="ya-bersyukur"/>
+    <file name="u9723-4.png" crc="210724037" ref="matahari-di-atas-awan"/>
+    <file name="u9726-4.png" crc="210724037" ref="di-bawah-salibnya-kutertunduk"/>
+    <file name="u9729-4.png" crc="210724037" ref="jalan-sertamu"/>
+    <file name="u9702-4.png" crc="210724037" ref="audio"/>
+  </folder>
+  <file name="index.html" crc="88517466" seo="true" mt="1523112645160" redirect="true"/>
+  <file name="media.html" crc="91572744" seo="true" mt="1523112644576" redirect="true"/>
+  <file name="info.html" crc="3945544383" seo="true" mt="1523112644721" redirect="true"/>
+  <file name="video.html" crc="289405302" seo="true" mt="1523112644573" redirect="true"/>
+  <file name="renungan.html" crc="219052673" seo="true" mt="1523112644577" redirect="true"/>
+  <file name="kabar-baik-kelahiran-kristus.html" crc="22836187" seo="true" mt="1523112644579" redirect="true"/>
+  <file name="hati-natal.html" crc="221231472" seo="true" mt="1523112644575" redirect="true"/>
+  <file name="ya-bersyukur.html" crc="4041402994" seo="true" mt="1523112644581" redirect="true"/>
+  <file name="matahari-di-atas-awan.html" crc="4214398431" seo="true" mt="1523112644570" redirect="true"/>
+  <file name="di-bawah-salibnya-kutertunduk.html" crc="48055364" seo="true" mt="1523112644572" redirect="true"/>
+  <file name="jalan-sertamu.html" crc="4073201749" seo="true" mt="1523112644581" redirect="true"/>
+  <file name="audio.html" crc="237734684" seo="true" mt="1523112644580" redirect="true"/>
+</manifest>
