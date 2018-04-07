@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gkjbandkarel.github.io" resolutions="1x" timestamp="1523113555004">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gkjbandkarel.github.io" resolutions="1x" timestamp="1523115201842">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="hati-natal.css" crc="287018962" ref="hati-natal"/>
